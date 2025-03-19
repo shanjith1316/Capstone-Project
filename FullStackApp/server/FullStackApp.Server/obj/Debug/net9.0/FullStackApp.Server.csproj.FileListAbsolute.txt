@@ -538,3 +538,4 @@ C:\Users\Shanjithraj\Desktop\MyCapstone Project\FullStackApp\server\FullStackApp
 C:\Users\Shanjithraj\Desktop\MyCapstone Project\FullStackApp\server\FullStackApp.Server\obj\Debug\net9.0\FullStackApp.Server.pdb
 C:\Users\Shanjithraj\Desktop\MyCapstone Project\FullStackApp\server\FullStackApp.Server\obj\Debug\net9.0\FullStackApp.Server.genruntimeconfig.cache
 C:\Users\Shanjithraj\Desktop\MyCapstone Project\FullStackApp\server\FullStackApp.Server\obj\Debug\net9.0\ref\FullStackApp.Server.dll
+C:\Users\Shanjithraj\Desktop\MyCapstone Project\FullStackApp\server\FullStackApp.Server\obj\Debug\net9.0\FullStackApp.Server.sourcelink.json

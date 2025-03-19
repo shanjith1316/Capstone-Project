@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FullStackApp.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+265a2881a8fc9fd8a2d77efd8be8fcfcdfe53de9")]
 [assembly: System.Reflection.AssemblyProductAttribute("FullStackApp.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FullStackApp.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
